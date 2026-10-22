@@ -10,6 +10,7 @@ With a background in graphic design, I enjoy turning ideas into functional appli
 - JavaScript
 - TypeScript
 - Python
+- Rust
 
 **Frontend Development**
 - HTML
